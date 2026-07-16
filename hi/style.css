@@ -1,0 +1,17 @@
+body{
+    background-color:bisque;
+    text-align:center
+}
+h1{
+    color:lightcoral;
+}
+h2{
+    color:coral;
+}
+img{
+    border-radius: 40px;
+}
+p{
+    color:goldenrod;
+    font-size: 20px;
+}
